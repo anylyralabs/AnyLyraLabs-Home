@@ -16,7 +16,7 @@ import {
 useSeoMeta(
   {
     title: '社区交流',
-    description: '加入柠泽工作室官方交流群、答疑互助群与下游开发者群，第一时间获取更新资讯与技术支持。'
+    description: '加入 AnyLyraLabs 官方交流群、答疑互助群与下游开发者群，第一时间获取更新资讯与技术支持。'
   },
   siteConfig.name
 )()
@@ -114,7 +114,7 @@ useSeoMeta(
           <Github weight="duotone" class="h-3.5 w-3.5" />
           前往 GitHub 组织仓库
         </AppButton>
-        <AppButton as="a" href="https://github.com/NingZeStudio/LogShare/issues" target="_blank" rel="noopener noreferrer" variant="outline" size="sm">
+        <AppButton as="a" href="https://github.com/anylyralabs/LogShare/issues" target="_blank" rel="noopener noreferrer" variant="outline" size="sm">
           <Bug weight="duotone" class="h-3.5 w-3.5" />
           LogShare Issue 提交
         </AppButton>

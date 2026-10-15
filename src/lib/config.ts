@@ -25,13 +25,13 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: '柠泽工作室',
-  nameEn: 'NingZe Studio',
-  slogan: '专注 Minecraft 本土化基础设施与开发者工具研发。',
-  title: '柠泽工作室 (NingZe Studio) - 专注中文 Minecraft 生态与基础设施建设',
+  name: 'AnyLyraLabs',
+  nameEn: 'AnyLyraLabs',
+  slogan: '为所有人，做有温度的技术与创造。',
+  title: 'AnyLyraLabs - 专注中文 Minecraft 生态与基础设施建设',
   description: '致力于打造 LogShare、柠泽资源站、SpinYarn 等更贴合中文网络环境与技术语境的高性能开源基础设施与开发者生态矩阵。',
-  url: 'https://github.com/NingZeStudio',
-  github: 'https://github.com/NingZeStudio',
+  url: 'https://github.com/anylyralabs',
+  github: 'https://github.com/anylyralabs',
   email: '3436464181@qq.com',
   qqGroup: 'https://qm.qq.com/q/MsDLWJTRo6',
   navLinks: [

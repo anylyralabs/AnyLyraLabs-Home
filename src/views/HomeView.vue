@@ -78,7 +78,7 @@ const techHighlights = [
           <span>开源与自托管技术工坊</span>
         </Badge>
         <Badge variant="outline" class="py-1 px-3 font-mono text-xs">
-          <span>NingZe Studio</span>
+          <span>AnyLyraLabs</span>
         </Badge>
       </div>
 
@@ -478,7 +478,7 @@ const techHighlights = [
         开放、包容、务实的中文 Minecraft 技术圈
       </h2>
       <p class="text-sm text-muted-foreground max-w-xl mx-auto leading-relaxed">
-        无论是提交代码、修复文档、报告缺陷，还是为服务器硬件与带宽提供赞助支持，柠泽工作室真诚期待与每一位开发者携手同行。
+        无论是提交代码、修复文档、报告缺陷，还是为服务器硬件与带宽提供赞助支持，AnyLyraLabs 真诚期待与每一位开发者携手同行。
       </p>
       <div class="flex flex-wrap items-center justify-center gap-3 pt-2">
         <AppButton as="router-link" to="/community" size="md">

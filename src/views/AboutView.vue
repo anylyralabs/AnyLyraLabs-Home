@@ -22,7 +22,7 @@ import {
 useSeoMeta(
   {
     title: '关于团队与架构',
-    description: '了解柠泽工作室背后的团队成员、基础设施拓扑、开发者接入规范与非营利公益承诺。'
+    description: '了解 AnyLyraLabs 背后的团队成员、基础设施拓扑、开发者接入规范与非营利公益承诺。'
   },
   siteConfig.name
 )()
@@ -34,7 +34,7 @@ useSeoMeta(
     <div class="space-y-4 max-w-3xl">
       <div class="inline-flex items-center gap-2">
         <Badge variant="secondary" class="py-1 px-3 font-mono text-xs">
-          关于柠泽 · Team & Infrastructure
+          关于 AnyLyraLabs · Team & Infrastructure
         </Badge>
       </div>
       <h1 class="text-3xl sm:text-4xl font-black tracking-tight text-foreground">

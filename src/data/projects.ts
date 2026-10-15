@@ -32,7 +32,7 @@ export const projects: ProjectItem[] = [
     category: 'infra',
     language: 'PHP 8.4+ / Swoole 6.2',
     stars: 81,
-    githubUrl: 'https://github.com/NingZeStudio/LogShare',
+    githubUrl: 'https://github.com/anylyralabs/LogShare',
     siteUrl: 'https://logshare.cn',
     featured: true,
     badge: '核心支柱'
@@ -46,7 +46,7 @@ export const projects: ProjectItem[] = [
     category: 'infra',
     language: 'Go / Vue 3',
     stars: 10,
-    githubUrl: 'https://github.com/NingZeStudio/miawa',
+    githubUrl: 'https://github.com/anylyralabs/miawa',
     siteUrl: 'https://miawa.cn',
     featured: true,
     badge: '重点服务'
@@ -60,7 +60,7 @@ export const projects: ProjectItem[] = [
     category: 'infra',
     language: 'Rust / PHP 扩展',
     stars: 9,
-    githubUrl: 'https://github.com/NingZeStudio/SpinYarn',
+    githubUrl: 'https://github.com/anylyralabs/SpinYarn',
     featured: true,
     badge: '系统扩展'
   },
@@ -73,7 +73,7 @@ export const projects: ProjectItem[] = [
     category: 'infra',
     language: 'Lua / OpenResty',
     stars: 1,
-    githubUrl: 'https://github.com/NingZeStudio/OpenLiteWaf',
+    githubUrl: 'https://github.com/anylyralabs/OpenLiteWaf',
     siteUrl: 'https://api.logshare.cn/security'
   },
   {
@@ -85,7 +85,7 @@ export const projects: ProjectItem[] = [
     category: 'infra',
     language: 'Lua / OpenResty',
     stars: 1,
-    githubUrl: 'https://github.com/NingZeStudio/OpenLiteStats',
+    githubUrl: 'https://github.com/anylyralabs/OpenLiteStats',
     siteUrl: 'https://api.logshare.cn/stats'
   },
   {
@@ -97,8 +97,8 @@ export const projects: ProjectItem[] = [
     category: 'template',
     language: 'Vue 3 / TypeScript',
     stars: 1,
-    githubUrl: 'https://github.com/NingZeStudio/LogShare-Front-Template',
-    siteUrl: 'https://github.com/NingZeStudio/LogShare-Front-Template',
+    githubUrl: 'https://github.com/anylyralabs/LogShare-Front-Template',
+    siteUrl: 'https://github.com/anylyralabs/LogShare-Front-Template',
     featured: true,
     badge: '官方模板'
   },
@@ -111,7 +111,7 @@ export const projects: ProjectItem[] = [
     category: 'template',
     language: 'Vue 3 / Tailwind CSS',
     stars: 4,
-    githubUrl: 'https://github.com/NingZeStudio/LogShare-Web-UI',
+    githubUrl: 'https://github.com/anylyralabs/LogShare-Web-UI',
     siteUrl: 'https://logshare.cn'
   },
   {
@@ -123,7 +123,7 @@ export const projects: ProjectItem[] = [
     category: 'tool',
     language: 'Vue / TypeScript',
     stars: 6,
-    githubUrl: 'https://github.com/NingZeStudio/fcl-to-zl2_controller'
+    githubUrl: 'https://github.com/anylyralabs/fcl-to-zl2_controller'
   },
   {
     id: 'opentui-panel',
@@ -134,7 +134,7 @@ export const projects: ProjectItem[] = [
     category: 'tool',
     language: 'Python TUI',
     stars: 3,
-    githubUrl: 'https://github.com/NingZeStudio/OpenTUIPanel'
+    githubUrl: 'https://github.com/anylyralabs/OpenTUIPanel'
   },
   {
     id: 'elementsplus-admin',
@@ -145,7 +145,7 @@ export const projects: ProjectItem[] = [
     category: 'template',
     language: 'Vue 3 / Element Plus',
     stars: 1,
-    githubUrl: 'https://github.com/NingZeStudio/ElementsPlus-Admin-Template'
+    githubUrl: 'https://github.com/anylyralabs/ElementsPlus-Admin-Template'
   },
   {
     id: 'paraore-ui',
@@ -156,7 +156,7 @@ export const projects: ProjectItem[] = [
     category: 'template',
     language: 'TypeScript / Sass',
     stars: 4,
-    githubUrl: 'https://github.com/NingZeStudio/ParaOre-UI'
+    githubUrl: 'https://github.com/anylyralabs/ParaOre-UI'
   },
   {
     id: 'mitutorials',
@@ -167,6 +167,6 @@ export const projects: ProjectItem[] = [
     category: 'docs',
     language: 'TypeScript / VitePress',
     stars: 6,
-    githubUrl: 'https://github.com/NingZeStudio/Mitutorials'
+    githubUrl: 'https://github.com/anylyralabs/Mitutorials'
   }
 ]

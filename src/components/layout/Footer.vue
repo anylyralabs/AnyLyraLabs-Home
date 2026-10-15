@@ -21,7 +21,7 @@ const onVersionClick = () => {
 
   if (easterEggClicks.value >= 3) {
     easterEggClicks.value = 0
-    toast.success('专注 Minecraft 本土化基础设施与开发者工具研发。')
+    toast.success('为所有人，做有温度的技术与创造。')
   }
 }
 </script>

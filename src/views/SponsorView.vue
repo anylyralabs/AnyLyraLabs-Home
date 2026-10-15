@@ -316,7 +316,7 @@ const costItems = [
         <span>非营利与开源承诺</span>
       </div>
       <p class="text-xs sm:text-sm text-muted-foreground leading-relaxed">
-        {{ sponsorConfig.statement }} 柠泽工作室的所有核心项目将长期维持自由开源协议，向所有玩家、服主与开发者无门槛开放。若您赞助后需要补充备注或更新公示信息，欢迎联系维护团队进行核实登记。
+        {{ sponsorConfig.statement }} AnyLyraLabs 的所有核心项目将长期维持自由开源协议，向所有玩家、服主与开发者无门槛开放。若您赞助后需要补充备注或更新公示信息，欢迎联系维护团队进行核实登记。
       </p>
     </section>
   </div>

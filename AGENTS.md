@@ -1,8 +1,8 @@
-# NingZeStudio-Home — 智能体协作与开发指南 (AGENTS.md)
+# AnyLyraLabs-Home — 智能体协作与开发指南 (AGENTS.md)
 
 ## 项目定位与架构职责
 
-- 本项目是 **柠泽工作室 (NingZe Studio)** 官方网站，基于 `LogShare-Front-Template` 前台设计范式深度开发。
+- 本项目是 **AnyLyraLabs** 官方网站，基于 `LogShare-Front-Template` 前台设计范式深度开发。
 - 技术栈：**Vue 3.5 + TypeScript + Vite + Tailwind CSS + Phosphor Icons**（服务端与系统级核心语言为 **PHP** 与 **Go**）。
 - 部署与产物：纯静态 SPA，产物位于 `dist/`，可部署于任何 CDN、Nginx 或对象存储上。
 - 数据模型位于 `src/data/`：
@@ -20,7 +20,7 @@
 1. **NingZe 资源站官方群**（镜像分发与 API 服务交流）；
 2. **LogShare 官方交流群**（平台迭代公告与交流）；
 3. **LogShare 答疑解惑群**（崩溃解析与互助答疑）；
-4. **柠泽工作室下游开发者群**（开源基建二次开发与对接）。
+4. **AnyLyraLabs 下游开发者群**（开源基建二次开发与对接）。
 严禁收录未经授权的非官方频道或第三方群聊。
 
 ## 验证与构建命令

@@ -18,7 +18,7 @@ import {
 
 useSeoMeta({
   title: '项目矩阵',
-  description: '浏览柠泽工作室在云端基础设施、客户端工具、工程模板与社区文档领域的全部开源项目。'
+  description: '浏览 AnyLyraLabs 在云端基础设施、客户端工具、工程模板与社区文档领域的全部开源项目。'
 }, siteConfig.name)()
 
 const currentCategory = ref<ProjectCategory | 'all'>('all')

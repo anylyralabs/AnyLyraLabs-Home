@@ -10,7 +10,7 @@ export interface CommunitySection {
   groups: QqGroup[]
 }
 
-// 官方群聊矩阵共四个：NingZe资源站官方群、LogShare 官方交流群、LogShare 答疑解惑群、柠泽工作室下游开发者群
+// 官方群聊矩阵共四个：NingZe资源站官方群、LogShare 官方交流群、LogShare 答疑解惑群、AnyLyraLabs 下游开发者群
 export const officialGroups: QqGroup[] = [
   {
     name: 'NingZe 资源站官方群',
@@ -28,8 +28,8 @@ export const officialGroups: QqGroup[] = [
     url: 'https://qm.qq.com/q/gZ2El58RVe'
   },
   {
-    name: '柠泽工作室下游开发者群',
-    description: '基于柠泽开源基建二次开发、集成对接与技术交流',
+    name: 'AnyLyraLabs 下游开发者群',
+    description: '基于 AnyLyraLabs 开源基建二次开发、集成对接与技术交流',
     url: 'https://qm.qq.com/q/MsDLWJTRo6'
   }
 ]

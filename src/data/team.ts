@@ -54,7 +54,7 @@ export const studioValues: ValueItem[] = [
 export const studioMilestones: Milestone[] = [
   {
     year: '2026.02',
-    title: '柠泽工作室正式发起成立',
+    title: 'AnyLyraLabs 正式发起成立',
     desc: '汇聚社区一线开发者与系统运维力量，开启 Minecraft 本土化基础设施与实用开发者工具矩阵的长期研发工程。'
   },
   {
@@ -163,7 +163,7 @@ export interface FaqItem {
 
 export const studioFaqs: FaqItem[] = [
   {
-    q: '柠泽旗下的公共服务会收费或引入广告吗？',
+    q: 'AnyLyraLabs 旗下的公共服务会收费或引入广告吗？',
     a: '永远不会。全线公共服务（LogShare、资源站镜像等）面向社区永久免费开放，不植入任何强制弹窗或商业广告。服务器与公网带宽费用由主理人全额资助，辅以社区好心人赞助，全部账目公开透明。'
   },
   {
@@ -175,7 +175,7 @@ export const studioFaqs: FaqItem[] = [
     a: '全线 API 均提供标准 RESTful / OpenAPI 规范，支持跨域（CORS）与多文件/压缩包上传。开发者可在项目页查阅接口说明，接入无需繁琐审批；如需更高并发支持或官方集成展示，欢迎加入下游开发者群。'
   },
   {
-    q: '如何加入柠泽团队或参与项目共建？',
+    q: '如何加入 AnyLyraLabs 团队或参与项目共建？',
     a: '我们长期欢迎熟悉 Minecraft 崩溃排障的解答志愿者，以及熟悉 PHP / Go / Rust / Vue 的开源开发者。您可以在 GitHub 提交 Pull Request，或在答疑群向管理人员自荐。'
   }
 ]
@@ -193,7 +193,7 @@ export const urgentRecruitment: UrgentRecruitment = {
   ],
   benefits: [
     '直通核心开发与运维团队，深度参与 LogShare 智能诊断特征库与 RAG 知识体系建设',
-    '永久收录进柠泽工作室官方贡献者名人堂，享有全线自研工具最高级权限',
+    '永久收录进 AnyLyraLabs 官方贡献者名人堂，享有全线自研工具最高级权限',
     '颁发官方认证群管理员身份，共同制定社区互助守则'
   ],
   actionText: '加入答疑群直接自荐',

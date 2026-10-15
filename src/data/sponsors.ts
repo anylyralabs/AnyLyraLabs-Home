@@ -22,7 +22,7 @@ export interface SponsorConfig {
 export const sponsorConfig: SponsorConfig = {
   title: '赞助与财务公开',
   description:
-    '柠泽工作室是由社区开发者共同构建的非营利技术组织。所有捐助将全额公开、专款专用，定向用于高防服务器租赁、千兆公网带宽、智能分析模型调用及多节点数据备份。',
+    'AnyLyraLabs 是由社区开发者共同构建的非营利技术组织。所有捐助将全额公开、专款专用，定向用于高防服务器租赁、千兆公网带宽、智能分析模型调用及多节点数据备份。',
   statement:
     '所有赞助款项严格用于基础设施运营与硬件支出，财务定期公示，绝无任何形式的资金私用或商业挪用。',
   afdianLink: 'https://afdian.com/a/lemwood',

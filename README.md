@@ -1,12 +1,12 @@
-# 柠泽工作室官网 (NingZeStudio-Home)
+# AnyLyraLabs 官网 (AnyLyraLabs-Home)
 
 <div align="center">
-  <h3>专注 Minecraft 本土化基础设施与开发者工具研发</h3>
-  <p>柠泽工作室 (NingZe Studio) 官方门户网站，基于 LogShare-Front-Template 前台设计范式深度开发。</p>
+  <h3>为所有人，做有温度的技术与创造</h3>
+  <p>AnyLyraLabs 官方门户网站，基于 LogShare-Front-Template 前台设计范式深度开发。</p>
 
   <p>
-    <a href="https://ningzestudio.github.io/NingZeStudio-Home/"><img src="https://img.shields.io/badge/GitHub_Pages-Online-emerald?style=flat-square" alt="GitHub Pages" /></a>
-    <a href="https://github.com/NingZeStudio"><img src="https://img.shields.io/badge/GitHub-NingZeStudio-181717?logo=github&style=flat-square" alt="GitHub" /></a>
+    <a href="https://anylyralabs.github.io/AnyLyraLabs-Home/"><img src="https://img.shields.io/badge/GitHub_Pages-Online-emerald?style=flat-square" alt="GitHub Pages" /></a>
+    <a href="https://github.com/anylyralabs"><img src="https://img.shields.io/badge/GitHub-AnyLyraLabs-181717?logo=github&style=flat-square" alt="GitHub" /></a>
     <a href="https://logshare.cn"><img src="https://img.shields.io/badge/Flagship-LogShare.CN-zinc?style=flat-square" alt="LogShare" /></a>
     <a href="https://miawa.cn"><img src="https://img.shields.io/badge/Flagship-柠泽资源站-zinc?style=flat-square" alt="柠泽资源站" /></a>
     <img src="https://img.shields.io/badge/Languages-PHP%20%7C%20Go%20%7C%20Rust-blue?style=flat-square" alt="Core Languages" />
@@ -20,7 +20,7 @@
 
 ## 站点定位与架构特色
 
-本项目是 **柠泽工作室 (NingZe Studio)** 的官方静态站点，全量承载团队介绍、开源项目矩阵、主流启动器生态互联、社区认证群聊及公益赞助财务公开：
+本项目是 **AnyLyraLabs** 的官方静态站点，全量承载团队介绍、开源项目矩阵、主流启动器生态互联、社区认证群聊及公益赞助财务公开：
 
 - **系统核心语言**：服务端与底层基础设施以 **PHP 8.4+**（Swoole 协程常驻服务）与 **Go / Rust**（编译型系统服务与中间件）为核心技术栈。
 - **克制工程美学**：基于 Zinc / Slate 低饱和度冷灰体系设计，坚决杜绝高饱和度彩色渐变，深浅主题平滑无缝转换。
@@ -37,11 +37,11 @@
 
 1. **[LogShare.CN](https://logshare.cn)**：Minecraft 生态专业的日志分享与智能分析平台，支持全格式解析、模组混淆反编译与轻量 RAG 诊断。
 2. **[柠泽资源站 (miawa.cn)](https://miawa.cn)**：面向中文 Minecraft 玩家与第三方启动器的高性能 GitHub Releases 自动化镜像分发服务。
-3. **[SpinYarn](https://github.com/NingZeStudio/SpinYarn)**：高性能 Minecraft 崩溃堆栈混淆名还原系统级引擎，支持 Bincode 映射缓存。
-4. **[OpenLiteWaf](https://github.com/NingZeStudio/OpenLiteWaf)**：极简轻量级 OpenResty Lua 边缘站点防火墙。
-5. **[OpenLiteStats](https://github.com/NingZeStudio/OpenLiteStats)**：运行在 OpenResty Log 阶段的自研极简访问统计中间件。
-6. **[LogShare-Front-Template](https://github.com/NingZeStudio/LogShare-Front-Template)**：提炼自生产环境的前台通用工程设计范式起步模板。
-7. **[LogShare-Web-UI](https://github.com/NingZeStudio/LogShare-Web-UI)**：LogShare 官方前端开源仓库，含日志高亮与 SSG 预渲染。
+3. **[SpinYarn](https://github.com/anylyralabs/SpinYarn)**：高性能 Minecraft 崩溃堆栈混淆名还原系统级引擎，支持 Bincode 映射缓存。
+4. **[OpenLiteWaf](https://github.com/anylyralabs/OpenLiteWaf)**：极简轻量级 OpenResty Lua 边缘站点防火墙。
+5. **[OpenLiteStats](https://github.com/anylyralabs/OpenLiteStats)**：运行在 OpenResty Log 阶段的自研极简访问统计中间件。
+6. **[LogShare-Front-Template](https://github.com/anylyralabs/LogShare-Front-Template)**：提炼自生产环境的前台通用工程设计范式起步模板。
+7. **[LogShare-Web-UI](https://github.com/anylyralabs/LogShare-Web-UI)**：LogShare 官方前端开源仓库，含日志高亮与 SSG 预渲染。
 
 ---
 
